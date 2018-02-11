@@ -51,7 +51,7 @@
   },
   "homepage": "https://github.com/airbnb/react-dates#readme",
   "devDependencies": {
-    "@storybook/addon-actions": "^3.3.5",
+    "@storybook/addon-actions": "^3.3.13",
     "@storybook/addon-info": "^3.3.5",
     "@storybook/addon-links": "^3.3.5",
     "@storybook/addon-options": "^3.3.5",
