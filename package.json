@@ -54,7 +54,7 @@
     "@storybook/addon-actions": "^3.3.5",
     "@storybook/addon-info": "^3.3.5",
     "@storybook/addon-links": "^3.3.5",
-    "@storybook/addon-options": "^3.3.5",
+    "@storybook/addon-options": "^3.3.13",
     "@storybook/react": "^3.3.5",
     "airbnb-js-shims": "^1.4.0",
     "aphrodite": "^1.2.5",
